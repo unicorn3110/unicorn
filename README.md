@@ -1,3 +1,3 @@
 # unicorn
-# My first github
+My first github
 Hello everyone!
